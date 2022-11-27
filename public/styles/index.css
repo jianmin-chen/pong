@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Pong";
+    src: url("../fonts/Pong.ttf") format("truetype");
+}
+
+body,
+html {
+    font-family: "Pong", monospace;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
